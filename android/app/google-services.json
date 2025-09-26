@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "321543074895",
+    "project_id": "the-endless-bookheaven",
+    "storage_bucket": "the-endless-bookheaven.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321543074895:android:a2378426328c713dd7a63a",
+        "android_client_info": {
+          "package_name": "com.example.the_endless_book_heaven"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhdUEUv-sE6QDfeQZkYgYEjTZTboG1uDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
